@@ -2,6 +2,10 @@
 
 一款面向中文 TXT 小说的 Windows 桌面工具，可导出适合 Kindle 阅读的 AZW3 和 MOBI 电子书。
 
+## 下载与使用
+
+[下载 Windows 64 位便携候选版 1.0.0rc8](https://github.com/Tintinding/kindle-txt-converter/releases/tag/v1.0.0rc8)。下载 ZIP 后完整解压到可写文件夹，双击 Kindle电子书转换器.exe，导入 TXT 并选择输出格式。启动时需要稍候。
+
 ## 功能
 
 - 识别常见中文文本编码，支持手动选择编码。
@@ -12,7 +16,7 @@
 
 ## 当前状态
 
-当前候选版本为 1.0.0rc8，面向 Windows 10/11 64 位。便携包在开发机完成双格式转换检查，两种格式已获用户确认可在 Kindle Paperwhite 3 试读。便携包公开分发所需的第三方材料仍在核对，完成后将在 Releases 提供下载。
+当前候选版本为 1.0.0rc8，面向 Windows 10/11 64 位。便携包在开发机完成双格式转换检查，两种格式已获用户确认可在 Kindle Paperwhite 3 试读。便携包已作为预发行版提供下载，第三方组件公开分发材料仍在核对。
 
 ## 源码
 
