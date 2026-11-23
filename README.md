@@ -4,9 +4,9 @@
 
 ## 下载与使用
 
-仓库提供最新源码包 `KindleTxtConverter-source-1.1.0rc2.zip`，包含应用源码、构建脚本和验证脚本；便携版可按 `scripts/build_single_file.py` 在本地构建。上一版便携包仍可从 [1.0.0rc8 预发行版](https://github.com/Tintinding/kindle-txt-converter/releases/tag/v1.0.0rc8) 下载。
+[下载 Windows 64 位便携候选版 1.1.0rc2](https://github.com/Tintinding/kindle-txt-converter/releases/tag/v1.1.0rc2)。下载 ZIP 后完整解压到可写文件夹，双击 Kindle电子书转换器.exe，导入 TXT 或 EPUB 并选择输出格式。启动时需要稍候。
 
-构建出的单文件 ZIP 完整解压到可写文件夹，双击 Kindle电子书转换器.exe，导入 TXT 或 EPUB 并选择输出格式。启动时需要稍候。
+仓库同时提供源码包 `KindleTxtConverter-source-1.1.0rc2.zip`，包含应用源码、构建脚本和验证脚本，可按 `scripts/build_single_file.py` 在本地构建。上一版便携包仍可从 [1.0.0rc8 预发行版](https://github.com/Tintinding/kindle-txt-converter/releases/tag/v1.0.0rc8) 下载。
 
 ## 功能
 
